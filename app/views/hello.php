@@ -26,11 +26,21 @@
             top: -25px;
         }
 
-		.welcome {
-            padding-top: 10%;
-            width: 50%;
-            margin: 0 auto;
-		}
+        @media (min-width: 1001px) {
+            .welcome {
+                padding-top: 10%;
+                width: 50%;
+                margin: 0 auto;
+            }
+        }
+
+        @media (max-width: 1000px) {
+            .welcome {
+                padding-top: 5%;
+                width: 80%;
+                margin: 0 auto;
+            }
+        }
 
 		a, a:visited {
 			text-decoration:none;
