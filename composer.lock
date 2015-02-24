@@ -234,16 +234,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v4.2.11",
+            "version": "v4.2.17",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "e29253c7f29e3b1ca716de7fe309b272e3ddf47d"
+                "reference": "3359de6d6cd322e8a1b251c2f8d9dd42a3e4e232"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/e29253c7f29e3b1ca716de7fe309b272e3ddf47d",
-                "reference": "e29253c7f29e3b1ca716de7fe309b272e3ddf47d",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/3359de6d6cd322e8a1b251c2f8d9dd42a3e4e232",
+                "reference": "3359de6d6cd322e8a1b251c2f8d9dd42a3e4e232",
                 "shasum": ""
             },
             "require": {
@@ -254,7 +254,7 @@
                 "jeremeamia/superclosure": "~1.0.1",
                 "monolog/monolog": "~1.6",
                 "nesbot/carbon": "~1.0",
-                "patchwork/utf8": "1.1.*",
+                "patchwork/utf8": "~1.1",
                 "php": ">=5.4.0",
                 "phpseclib/phpseclib": "0.3.*",
                 "predis/predis": "0.8.*",
@@ -345,7 +345,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2014-10-04 18:48:27"
+            "time": "2015-02-11 20:37:15"
         },
         {
             "name": "monolog/monolog",
