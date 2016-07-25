@@ -81,7 +81,7 @@
         <a class="btn" href="https://my.scalingo.com/deploy?source=https://github.com/Scalingo/sample-php-laravel">Just click this button!</a>
         <span style="display:block;">It will be up in less than 2 minutes!</span>
       </h2>
-      <p>The code of this sample lives <a href="/">on GitHub</a>. You can find <a href="http://samples.scalingo.com">more samples here</a>.</p>
+      <p>The code of this sample lives <a href="https://github.com/Scalingo/sample-php-laravel">on GitHub</a>. You can find <a href="http://samples.scalingo.com">more samples here</a>.</p>
     </div>
     <footer>
       <div class="container">
