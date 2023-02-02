@@ -1,0 +1,13 @@
+{
+    "name": "Sample PHP Laravel",
+    "description": "Sample PHP web application using the Laravel framework",
+    "logo": "https://scalingo.com/logo.svg",
+    "repository": "https://github.com/Scalingo/sample-php-laravel",
+    "website": "https://sample-php-laravel.scalingo.io",
+    "env": {
+      "APP_KEY": {
+        "description": "Mandatory 32 characters long secret. You can generate one here: https://www.lastpass.com/password-generator."
+      }
+    }
+  }
+  
