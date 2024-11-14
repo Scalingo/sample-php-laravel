@@ -1,6 +1,6 @@
-FROM php:8.2-fpm
+FROM php:8.3-fpm
 
-RUN apt-get update -y && apt-get install -y libmcrypt-dev openssl
+RUN apt-get update -y && apt-get install -y libmcrypt-dev openssl git zip unzip
 
 RUN docker-php-ext-install pdo pdo_mysql
 
