@@ -1,0 +1,7 @@
+# CODEOWNERS Automatic assignment
+
+composer.json @SC-Samir
+composer.lock @SC-Samir
+
+package-lock.json @SC-Samir
+package.json @SC-Samir
