@@ -1,0 +1,7 @@
+# CODEOWNERS Automatic assignment
+
+composer.json @scalingo/devrel
+composer.lock @scalingo/devrel
+
+package-lock.json @scalingo/devrel
+package.json @scalingo/devrel
