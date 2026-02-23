@@ -15,7 +15,7 @@
         "@laravel/vite-plugin-wayfinder": "^0.1.7",
         "@types/node": "^25.3.0",
         "@vue/eslint-config-typescript": "^14.6.0",
-        "eslint": "^9.39.2",
+        "eslint": "^10.0.1",
         "eslint-config-prettier": "^10.1.8",
         "eslint-import-resolver-typescript": "^4.4.4",
         "eslint-plugin-import": "^2.32.0",
