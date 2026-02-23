@@ -1,7 +1,7 @@
 # CODEOWNERS Automatic assignment
 
-composer.json @SC-Samir
-composer.lock @SC-Samir
+composer.json @scalingo/devrel
+composer.lock @scalingo/devrel
 
-package-lock.json @SC-Samir
-package.json @SC-Samir
+package-lock.json @scalingo/devrel
+package.json @scalingo/devrel
