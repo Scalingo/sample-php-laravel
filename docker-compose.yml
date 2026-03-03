@@ -9,10 +9,13 @@ services:
       MYSQL_USER: 'user'
       MYSQL_PASSWORD: 'biniou'
       MYSQL_ROOT_PASSWORD: 'biniou'
+    security_opt:
+      - no-new-privileges:true
+    
   web:
     build: .
     ports:
-      - 3000:8080
+      - 8080:8080
     environment:
       PORT: 8080
       DB_CONNECTION: mysql
