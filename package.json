@@ -13,7 +13,7 @@
     "devDependencies": {
         "@eslint/js": "^10.0.1",
         "@laravel/vite-plugin-wayfinder": "^0.1.7",
-        "@types/node": "^25.3.3",
+        "@types/node": "^25.4.0",
         "@vue/eslint-config-typescript": "^14.7.0",
         "eslint": "^10.0.2",
         "eslint-config-prettier": "^10.1.8",
