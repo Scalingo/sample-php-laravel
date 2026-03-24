@@ -12,7 +12,7 @@
         "php": "^8.5",
         "inertiajs/inertia-laravel": "^2.0.19",
         "laravel/framework": "^12.49.0",
-        "laravel/tinker": "^2.11.0",
+        "laravel/tinker": "^3.0.0",
         "laravel/wayfinder": "^0.1.13"
     },
     "require-dev": {
