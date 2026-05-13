@@ -1,0 +1,7 @@
+dependencies = []
+description = "PHP/Laravel sample application"
+languages = ["dockerfile", "php", "javascript"]
+owner = "devrel@scalingo.com"
+team = "DevRel"
+version = "1.0.2"
+tier = 2
