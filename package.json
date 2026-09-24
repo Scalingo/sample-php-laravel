@@ -37,7 +37,7 @@
         "tailwindcss": "^4.3.2",
         "typescript": "^6.0.3",
         "vite": "^8.3.0",
-        "vue": "^3.5.41"
+        "vue": "^3.5.43"
     },
     "optionalDependencies": {
         "@rollup/rollup-linux-x64-gnu": "4.63.1",
