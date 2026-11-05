@@ -39,6 +39,9 @@
         "vite": "^8.3.5",
         "vue": "^3.5.44"
     },
+    "resolutions": {
+        "minimatch":"^11.0.4"
+    },
     "optionalDependencies": {
         "@rollup/rollup-linux-x64-gnu": "4.67.4",
         "@tailwindcss/oxide-linux-x64-gnu": "^4.3.3",
