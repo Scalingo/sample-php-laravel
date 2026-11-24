@@ -43,7 +43,7 @@
         "minimatch":"^11.0.4"
     },
     "optionalDependencies": {
-        "@rollup/rollup-linux-x64-gnu": "4.68.3",
+        "@rollup/rollup-linux-x64-gnu": "4.68.7",
         "@tailwindcss/oxide-linux-x64-gnu": "^4.3.5",
         "lightningcss-linux-x64-gnu": "^1.32.0"
     }
